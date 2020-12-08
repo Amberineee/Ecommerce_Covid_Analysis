@@ -1,1 +1,2 @@
 # ecommerce_covid_analysis
+Goal is to analyze customer online purchasing behavior during pre covid-19 and post covid-19 using February and April dataset, respectively. Which allows us to understand the traffic of the website and conversion made by consumers to potential solve E-commerce’s dataset problems, and expand the opportunities for marketing campaigns, target promotions and optimizing the inventory level.
